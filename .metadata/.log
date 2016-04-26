@@ -23,3 +23,22 @@ This version of Shared was compiled for Eclipse 3.7 but is running on Eclipse 3.
 
 !ENTRY com.instantiations.eclipse 1 0 2016-04-24 19:23:51.830
 !MESSAGE WIN32_GET_KEY_STATE not found
+!SESSION 2016-04-25 21:02:24.887 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_31
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/mduffy/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/Users/mduffy/cosc603-Duffy-project5/ -product org.eclipse.epp.package.java.product -keyring /Users/mduffy/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-04-25 21:02:27.716
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.pitest.pitclipse.core 1 0 2016-04-25 21:02:49.501
+!MESSAGE Classpath: [/Users/mduffy/cosc603-Duffy-project5/CoffeeMaker/bin, /Users/mduffy/cosc603-Duffy-project5/CoffeeMaker/libs/junit-4.12.jar, /Users/mduffy/cosc603-Duffy-project5/CoffeeMaker/libs/hamcrest-core-1.3.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.command-line-osgi_1.1.5.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.html-report-osgi_1.1.5.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.osgi_1.1.5.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.pitrunner_1.1.4.201604131555.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.guava-shade-osgi_18.0.0.jar]
+
+!ENTRY org.pitest.pitclipse.core 1 0 2016-04-25 21:03:46.742
+!MESSAGE Classpath: [/Users/mduffy/cosc603-Duffy-project5/CoffeeMaker/bin, /Users/mduffy/cosc603-Duffy-project5/CoffeeMaker/libs/junit-4.12.jar, /Users/mduffy/cosc603-Duffy-project5/CoffeeMaker/libs/hamcrest-core-1.3.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.command-line-osgi_1.1.5.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.html-report-osgi_1.1.5.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.osgi_1.1.5.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.pitrunner_1.1.4.201604131555.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.guava-shade-osgi_18.0.0.jar]
+
+!ENTRY org.pitest.pitclipse.core 1 0 2016-04-25 21:09:03.253
+!MESSAGE Classpath: [/Users/mduffy/cosc603-Duffy-project5/CoffeeMaker/bin, /Users/mduffy/cosc603-Duffy-project5/CoffeeMaker/libs/junit-4.12.jar, /Users/mduffy/cosc603-Duffy-project5/CoffeeMaker/libs/hamcrest-core-1.3.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.command-line-osgi_1.1.5.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.html-report-osgi_1.1.5.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.osgi_1.1.5.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.pitrunner_1.1.4.201604131555.jar, /Users/mduffy/.p2/pool/plugins/org.pitest.guava-shade-osgi_18.0.0.jar]
