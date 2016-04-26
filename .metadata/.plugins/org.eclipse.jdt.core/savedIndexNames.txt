@@ -1,20 +1,4 @@
 INDEX VERSION 1.127+/Users/mduffy/cosc603-Duffy-project5/.metadata/.plugins/org.eclipse.jdt.core
-2654920010.index
-4124263567.index
-1247459299.index
-1880139076.index
-473106283.index
-883634178.index
-3068211809.index
-3852344237.index
-1271342938.index
+3480527595.index
 126265825.index
-3669867886.index
-505420999.index
-1637184508.index
-3746283354.index
-2936287081.index
-501142777.index
-3740299137.index
-891561327.index
-477636451.index
+3728136835.index
